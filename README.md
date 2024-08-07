@@ -28,3 +28,4 @@ For more details refer https://www.investopedia.com/ask/answers/what-is-the-rule
     “Long term, inflation runs about 3 percent. So your money buys half as much in 20 years.”
 
     Learn more here--> https://finance.yahoo.com/news/6-investment-formulas-financial-success-172744221.html
+    [Learn more here-->](https://finance.yahoo.com/news/6-investment-formulas-financial-success-172744221.html))
